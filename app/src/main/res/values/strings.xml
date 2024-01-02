@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">E-Library</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_scan">Scan</string>
+    <string name="title_activity_main">MainAct</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_login_form">LoginForm</string>
+</resources>
